@@ -1,2 +1,2 @@
-require './chacho'
-run Chacho
+require './herocho'
+run Herocho
